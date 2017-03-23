@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\user.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\source.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\source.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\source.cpp(366): warning C4018: '<': signed/unsigned mismatch
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\source.cpp(409): warning C4018: '<': signed/unsigned mismatch
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\source.cpp(433): warning C4018: '<': signed/unsigned mismatch
+c:\users\krazyzebra\documents\ese 224 project\ese 224 project\source.cpp(461): warning C4018: '<': signed/unsigned mismatch
+  ESE 224 Project.vcxproj -> C:\Users\KrazyZebra\Documents\ESE 224 Project\Debug\ESE 224 Project.exe
+  ESE 224 Project.vcxproj -> C:\Users\KrazyZebra\Documents\ESE 224 Project\Debug\ESE 224 Project.pdb (Full PDB)
